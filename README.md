@@ -3,10 +3,12 @@ cpputils
 
 Utils written in C++ used in my projects
 
-At the moment repository contains:
-logger - Lightweight logger class, usage:
+##At the moment repository contains
 
-How to implement
+#Logger
+Lightweight logger class, usage:
+
+###How to implement
 ```cpp
 // Initialize logger
 // Argument 1: Name of file log
