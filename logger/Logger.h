@@ -9,6 +9,7 @@
 
 #include <stdio.h>
 #include <cstdarg>
+#include <time.h>
 
 enum ELogType
 {
